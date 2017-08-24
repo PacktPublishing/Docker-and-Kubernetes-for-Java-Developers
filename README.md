@@ -33,7 +33,7 @@ The code will look like the following:
 ## Related Products
 * [DevOps: Puppet, Docker, and Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-puppet-docker-and-kubernetes?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788297615)
 
-* [Docker for Web Developers [Video]](https://www.packtpub.com/virtualization-and-cloud/docker-creating-structured-containers?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781784390679)
+* [Docker for Web Developers [Video]](https://www.packtpub.com/virtualization-and-cloud/docker-web-developers-video?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781786465931)
 
 * [Docker: Creating Structured Containers](https://www.packtpub.com/virtualization-and-cloud/docker-creating-structured-containers?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781786465931)
 
