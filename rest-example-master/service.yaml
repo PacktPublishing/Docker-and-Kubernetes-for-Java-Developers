@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: rest-example
+  labels:
+    app: rest-example
+    tier: backend
+spec:
+  type: NodePort
+  ports:
+    # the port that this service should serve on
+  - port: 8080
+  selector:
+    app: rest-example
+    tier: backend

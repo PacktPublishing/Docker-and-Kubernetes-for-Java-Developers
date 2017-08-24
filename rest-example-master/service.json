@@ -1,0 +1,23 @@
+{
+  "apiVersion": "v1",
+  "kind": "Service",
+  "metadata": {
+    "name": "rest-example",
+    "labels": {
+      "app": "rest-example",
+      "tier": "backend"
+    }
+  },
+  "spec": {
+    "type": "NodePort",
+    "ports": [
+      {
+        "port": 8080
+      }
+    ],
+    "selector": {
+      "app": "rest-example",
+      "tier": "backend"
+    }
+  }
+}
